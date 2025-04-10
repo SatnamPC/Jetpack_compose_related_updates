@@ -37,4 +37,14 @@ CenterAlignedTopAppBar(
 ```
 
 > If you are satisfied with our solution, then please share it with others as well.
+
+Before fixing the issue : 
+
+![beforefixstatusbarissue](https://github.com/user-attachments/assets/2536ded4-9295-4073-b648-39f680681568)
+
+After fixing the issue :
+
+![afterfixstatusbarissue](https://github.com/user-attachments/assets/8b22cbba-574f-4eaf-9230-7527ec47b05b)
+
+
    
